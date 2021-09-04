@@ -1,1 +1,1 @@
-# tranzysthor.github.io
+# https://tranzysthor.github.io/TanksGame/
